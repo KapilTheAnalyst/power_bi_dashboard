@@ -22,3 +22,26 @@ Explore the dashboards below. Each has its own dedicated README with more detail
 * Drill-Through Functionality
 
 [**View Full project in detail(README)**](Data_jobs/README.md)
+
+## Data Jobs Dashboards 2.0 (v2 -Single-Page Focus)
+![Dashboard Page 1](image/project2.jpg)
+
+**Key Power BI Skills Utilized (demonnstrating progression):**
+* Advanced Dashboard Design (Single-Page UX & Optimization)
+* Complex Power Query Transformations
+* Star Schema Data Modeling Principles
+* Explicit DAX Measures (e.g, `CALCULATE`, context modifiers)
+* Dynamic Visualisation (driven by Parametrs/Slicers)
+* Field & Numeric Parameter Implementaion for "What-IF" Analysis
+* Enhanced Geospatial Insights
+* Advanced Card Visualizations
+* Optimized slicers & Advanced Cross-Filtering Techniques
+* Report Performance Considerations
+* Report Performance Considerations
+
+[**View Full Project 2 Details (README)**](Data_jobs_v2\README.md)
+
+## About This Portfolio
+
+Each dashboard linked above its own detailed `README.md`
+file within its respective project folder. These offer deeper insights into the project objectives, data sources, specific POwer BI techniques employed, and a closer look at the dashboard build.
